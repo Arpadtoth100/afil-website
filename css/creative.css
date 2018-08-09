@@ -172,7 +172,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("https://cdn.pixabay.com/photo/2017/03/31/16/08/oil-rig-2191711_960_720.jpg");
+  background-image: url("./img/banner.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -215,6 +215,10 @@ header.masthead p {
   header.masthead h1 {
     font-size: 4rem;
   }
+}
+
+.row {
+  justify-content: center;
 }
 
 .service-box {
