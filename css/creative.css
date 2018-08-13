@@ -218,6 +218,7 @@ header.masthead p {
 }
 
 .row {
+  display: -ms-flexbox;
   justify-content: center;
 }
 
